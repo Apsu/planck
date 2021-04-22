@@ -1,7 +1,7 @@
 /*
  * Auto shift options
  */
-#define AUTO_SHIFT_TIMEOUT 150
+#define AUTO_SHIFT_TIMEOUT 200
 #define AUTO_SHIFT_REPEAT
 
 /*
