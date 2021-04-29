@@ -8,7 +8,7 @@
   "layers": [
     [
       "KC_ESC",
-      "KC_SCLN",
+      "KC_Q",
       "KC_W",
       "KC_F",
       "KC_P",
@@ -17,7 +17,7 @@
       "KC_L",
       "KC_U",
       "KC_Y",
-      "KC_Q",
+      "KC_SCLN",
       "KC_BSPC",
       "LCTL_T(KC_TAB)",
       "KC_A",
