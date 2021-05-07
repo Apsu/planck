@@ -50,9 +50,9 @@
       "LT(4,KC_TAB)",
       "KC_NO",
       "KC_NO",
-      "LT(3,KC_BSPC)",
+      "LT(3,KC_ENT)",
       "LT(2,KC_SPC)",
-      "KC_ENT",
+      "KC_BSPC",
       "KC_NO",
       "KC_NO"
     ],
@@ -100,9 +100,9 @@
       "LT(4,KC_TAB)",
       "KC_NO",
       "KC_NO",
-      "LT(3,KC_BSPC)",
+      "LT(3,KC_ENT)",
       "LT(2,KC_SPC)",
-      "KC_ENT",
+      "KC_BSPC",
       "KC_NO",
       "KC_NO"
     ],
