@@ -171,7 +171,7 @@
       "EEP_RST",
       "KC_NO",
       "LALT(KC_UP)",
-      "LALT(KC_RGHT)",
+      "LALT(KC_DOWN)",
       "ANY(C(S(KC_TAB)))",
       "LCTL(KC_TAB)",
       "KC_NO",
