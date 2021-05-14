@@ -6,4 +6,5 @@
 #define PERMISSIVE_HOLD
 // #define TAPPING_FORCE_HOLD // Incompatible with oneshot toggle
 
-#define TAPPING_TOGGLE 2
+#define ONESHOT_TAP_TOGGLE 2
+#define ONESHOT_TAP_TIMEOUT 2000
