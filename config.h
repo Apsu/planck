@@ -7,4 +7,4 @@
 // #define TAPPING_FORCE_HOLD // Incompatible with oneshot toggle
 
 #define ONESHOT_TAP_TOGGLE 2
-#define ONESHOT_TAP_TIMEOUT 2000
+#define ONESHOT_TIMEOUT 2000
