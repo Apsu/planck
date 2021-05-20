@@ -7,6 +7,6 @@
 // #define TAPPING_FORCE_HOLD // Incompatible with oneshot toggle
 
 /*
- * Toggle options
+ * Autoshift options
  */
-#define TAPPING_TOGGLE 2
+#define AUTO_SHIFT_TIMEOUT 150
